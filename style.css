@@ -1,0 +1,233 @@
+/*Ross Marinaro Website
+
+
+
+id*/
+
+#header_element img  {
+    width: 30%;
+	margin-left: 15%;
+	margin-top: 5%;
+	position: absolute;
+	z-index: 1;
+	
+	
+
+}
+
+
+#header_element_gif img  {
+    width: 30%;
+	margin-left: 65%;
+	margin-top: 5%;
+	position: absolute;
+	z-index: 1;
+	"padding-left: 65%;"
+	
+	
+
+}
+
+#main {
+	
+	margin-left: 3%;
+	width: 55%;
+	position: relative;
+	
+	
+}
+
+#content_element img{
+	
+ 
+	width: 70%;
+
+	position: absolute;
+	margin-left: 18%;
+	margin-top: 47%;
+
+	
+	
+}
+
+
+
+#content_element2 img{
+	
+ 
+	width: 70%;
+
+	position: absolute;
+	margin-left: 18%;
+	margin-top: 70%;
+}
+
+
+
+#content_element3 img{
+	
+ 
+	width: 70%;
+
+	position: absolute;
+	margin-left: 18%;
+	margin-top: 15%;
+}
+
+
+
+#content_element4 img{
+	
+ 
+	width: 70%;
+
+	position: absolute;
+	margin-left: 18%;
+	margin-top: 70%;
+}
+
+
+#section-description img{
+	
+	width: 15%;
+	margin-top: 5%;
+	
+	
+	
+}
+
+#section-description2 img{
+	
+	width: 35%;
+	margin-top: 3%;
+	
+	
+	
+}
+
+
+
+#footer img{
+	margin-top: 95%;
+	margin-left: 45%;
+	width:15%;
+	
+
+}
+#footer_illustration-page img{
+	margin-top: 120%;
+	margin-left: 45%;
+	width:15%;
+	
+
+}
+
+#gif-container{
+    top: 80%;
+	max-width: 70%;
+	position: relative;
+	margin: 0 auto;
+	padding: 50 50;
+	box-sizing: border-box;
+display: block;
+justify-content: center;
+ 
+}
+
+#gif-container_illustration-page{
+    
+	max-width: 70%;
+	position: relative;
+	margin:  auto;
+	padding: 50 50;
+display: block;
+justify-content: center;
+ 
+}
+#illustration-image-header img{
+	
+	width: 80%;
+    position: relative;
+	margin-top: 20%;
+}
+
+/*classes*/
+
+.button img{
+width: 20%;
+
+
+	
+}
+
+
+.giphy{
+	
+	width: 25%;
+	display: inline-block;
+	padding: 30px;
+
+}
+
+.giphy img{
+	
+	width: 100%;
+		
+}
+/*elements*/
+
+div{
+	
+	text-decoration:none;
+
+
+}
+
+ul{
+	
+	width: 60%;
+	display: block;
+	padding-left: 11%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 24%;
+}
+
+
+li{
+	
+	display: inline;
+    padding: 1%;
+	vertical-align: bottom;	
+}
+ 
+
+nav {
+	display: block;
+	position: relative;
+	width: 100%;
+	
+}
+
+
+a{
+	
+text-decoration: none;
+}
+
+
+footer{
+	
+	width: 100%;
+	position: relative;
+	margin-top: 100%;
+	
+}
+
+
+
+
+
+
+
+
