@@ -1,0 +1,327 @@
+/*Ross Marinaro Website
+
+
+
+id*/
+
+#header_element img  {
+    width: 30%;
+	margin-left: 15%;
+	margin-top: 5%;
+	position: absolute;
+	z-index: 1;
+	
+	
+
+}
+
+
+#header_element_gif img  {
+    width: 35%;
+	margin-left: 55%;
+	margin-top: 5%;
+	position: absolute;
+	z-index: 1;
+	"padding-left: 65%;"
+	
+	
+
+}
+
+#main {
+	
+	margin-left: 3%;
+	width: 55%;
+	position: relative;
+	
+	
+}
+#content-section{
+	display: block;
+
+	width: 70%;
+	margin-top: 10%;
+
+}
+
+#content_element img{
+	
+ 
+	width: 70%;
+
+	position: absolute;
+	margin-left: 18%;
+	margin-top: 47%;
+
+	
+	
+}
+
+#footer img{
+	margin-top: 95%;
+	margin-left: 45%;
+	width:15%;
+	
+
+}
+#footer_illustration-page img{
+	margin-top: 120%;
+	margin-left: 45%;
+	width:15%;
+	
+
+}
+#footer_illustration-page2 img{
+	margin-top: 10%;
+	margin-left: 45%;
+	width:15%;
+	
+
+}
+
+
+#gif-container{
+    top: 80%;
+	max-width: 80%;
+	position: relative;
+	margin: 0 auto;
+	padding: 50 50;
+	box-sizing: border-box;
+display: block;
+justify-content: center;
+ 
+}
+
+
+
+#illustration-image img{
+	
+	width: 60%;
+    position: relative;
+	margin-top: 10%;
+	border: 5px solid black;
+}
+
+#to-top img{
+	
+	width: 10%;
+	
+	
+}
+
+
+/*classes*/
+
+
+.video-wrapper-container{
+	position: relative;
+	max-width: 100%;
+	
+	box-sizing: border-box;
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-column-gap: 2%;
+	grid-row-gap: 2%;
+	padding: 5%;
+	
+}
+
+.video-wrapper{
+	position: relative;
+	padding:30%;
+	height: 0;
+	
+}
+
+.video-wrapper iframe{
+
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height:100%;
+	
+}
+.section-container {
+	position: relative;
+	width: 75%;
+
+}
+
+
+
+
+
+
+
+
+
+
+div.section-description img{
+	
+	width: 75%;
+	margin-top: 5%;
+		
+}
+
+div.section-description2 img{
+	
+	width: 10%;
+	margin-top: 7%;
+	margin-left: 45%;
+
+		
+}
+
+
+
+div.section-description3 img{
+	
+	width: 58%;
+	margin-top: 5%;
+	
+
+		
+}
+
+.grid-container {
+
+	margin-top: 10%;
+	margin-left: 25%;
+     width: 50%;
+	display:grid;
+	grid-template-columns: auto auto auto auto;
+	grid-template-rows: auto auto;
+	background: #304047;
+	border: 5px solid #304047;
+	box-sizing: border-box;
+
+}
+
+.grid-container2 {
+    position: relative;
+	margin-top: 10%;
+	margin-left: 15%;
+	display:grid;
+	grid-template-columns: auto auto;
+	grid-gap: 5%;
+
+}
+
+.grid-item-store img{
+	width: 100%;
+	
+}
+
+.grid-item img{
+	width: 100%;
+	height: 100%;
+	
+	
+	
+}
+
+.button img{
+width: 20%;
+
+
+	
+}
+
+
+.giphy{
+	
+	width: 25%;
+	display: inline-block;
+	padding: 30px;
+
+}
+
+.giphy img{
+	
+	width: 100%;
+		
+}
+
+img.recent-vectors{
+	display: block;
+	position: relative;
+	width: 80%;
+    height: 200%;
+	right: 15%;
+	z-index: -1;	
+}
+
+
+
+
+/*elements*/
+
+div{
+	
+	text-decoration:none;
+
+
+}
+
+ul{
+	
+	width: 60%;
+	display: block;
+	padding-left: 11%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 24%;
+}
+
+
+li{
+	
+	display: inline;
+    padding: 1%;
+	vertical-align: bottom;	
+}
+ 
+
+nav {
+	display: block;
+	position: relative;
+	width: 100%;
+	
+}
+
+a{
+	
+text-decoration: none;
+}
+
+h2{
+	font-family: 'Bangers' , 'Helvetica' , sa-serif;
+	font-style: italic;
+	letter-spacing: 0.03em;
+	color: #8AAAB5;
+	
+	
+	
+}
+
+
+footer{
+	
+	width: 100%;
+	position: relative;
+	margin-top: 100%;     
+	
+}
+
+
+
+html{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	
+}
+
+
+
