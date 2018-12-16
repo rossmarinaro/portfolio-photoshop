@@ -311,16 +311,6 @@ text-align: center;
 		
 }
 
-img.recent-vectors{
-	display: block;
-	position: relative;
-	width: 80%;
-    height: 200%;
-	right: 15%;
-	z-index: -1;	
-}
-
-
 
 
 /*elements*/
