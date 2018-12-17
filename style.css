@@ -1,0 +1,413 @@
+/*Ross Marinaro Website
+
+
+
+id*/
+
+#header_element img  {
+    width: 30%;
+	margin-left: 15%;
+	margin-top: 5%;
+	position: absolute;
+	z-index: 1;
+}
+
+
+
+#header_element_gif img  {
+    width: 35%;
+	margin-left: 55%;
+	margin-top: 5%;
+	position: absolute;
+	z-index: 1;
+	"padding-left: 65%;"
+	
+	
+
+}
+
+#main {
+	
+	margin-left: 3%;
+	width: 55%;
+	position: relative;
+	
+	
+}
+#content-section{
+	display: block;
+
+	width: 70%;
+	margin-top: 10%;
+
+}
+
+#content_element img{
+	
+ 
+	width: 70%;
+
+	position: absolute;
+	margin-left: 18%;
+	margin-top: 47%;
+
+	
+	
+}
+
+#gif-container{
+    top: 80%;
+	max-width: 80%;
+	position: relative;
+	margin: 0 auto;
+	padding: 50 50;
+	box-sizing: border-box;
+display: block;
+justify-content: center;
+ 
+}
+
+
+
+#illustration-image img{
+	
+	width: 60%;
+    position: relative;
+	margin-top: 10%;
+	border: 5px solid black;
+}
+
+
+/*classes*/
+
+
+.video-wrapper-container{
+	position: relative;
+	max-width: 100%;
+	
+	box-sizing: border-box;
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-column-gap: 2%;
+	grid-row-gap: 2%;
+	padding: 5%;
+	margin: 10%;
+	
+}
+
+.video-wrapper{
+	position: relative;
+	padding:30%;
+	height: 0;
+	
+}
+
+.video-wrapper iframe{
+
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height:100%;
+	
+}
+.section-container {
+	position: relative;
+
+}
+
+
+.section-description h1{
+font-family: 'Bangers' , 'Tahoma' , 'Arial' , sans-serif;
+color: #8AAAB5;
+letter-spacing: 0.02em;
+	
+}
+
+
+
+.section-description p{
+	
+	font-family:  'Tahoma', 'Arial' , sans-serif;
+	font-style:  italic;
+	font-weight: bold;
+	font-size: 1.5 em;
+	letter-spacing: 0.02em;
+	width: 75%;
+	margin-top: 5%;
+	color: #8AAAB5;
+}
+
+.section-description_ani h1{
+font-family: 'Bangers' , 'Tahoma' , 'Arial' , sans-serif;
+color: #8AAAB5;
+font-size: 3em;
+letter-spacing: 0.05em;
+	
+}
+
+
+
+
+.section-description_ani p{
+	
+	font-family: 'Helvetica' , 'Tahoma', 'Arial' , sans-serif;
+	font-style:  italic;
+	font-weight: bold;
+	font-size: 1.5em;
+	width: 75%;
+	margin-top: 5%;
+	color: #8AAAB5;
+}
+
+.section-description2 h3{
+	
+margin-top: 7%;
+text-align: center;
+font-family: 'Bangers' , 'Tahoma' , 'Arial' , sans-serif;
+color: #8AAAB5;
+font-size: 2em;
+letter-spacing: 0.02em;
+		
+}
+
+
+
+.section-description3 h1{
+	
+	width: 58%;
+	margin-top: 5%;
+	font-family: 'Bangers' , 'Tahoma' , 'Arial' , sans-serif;
+color: #8AAAB5;
+font-size: 3em;
+	
+}
+
+.section-description3 p{	
+	font-family:  'Helvetica' , 'Tahoma', 'Arial' , sans-serif;
+	font-style:  italic;
+	font-weight: bold;
+	font-size: .6em;
+
+	margin-top: 5%;
+	color: #8AAAB5;
+}
+.grid-container {
+
+	margin-top: 10%;
+	margin-left: 25%;
+     width: 50%;
+	display:grid;
+	grid-template-columns: auto auto auto auto;
+	grid-template-rows: auto auto;
+	background: #304047;
+	border: 5px solid #304047;
+	box-sizing: border-box;
+
+}
+
+.grid-container2{
+    position: relative;
+	justify-items: end;
+	display:grid;
+	grid-template-columns: auto auto;
+	grid-gap: 2%;
+
+}
+.grid-container2 input{
+	align-content: center;
+}
+
+.grid-item-store img{
+	width: 60%;
+
+}
+
+.grid-item img{
+	width: 100%;
+	height: 100%;
+	
+	
+	
+}
+
+.button img{
+width: 20%;	
+}
+
+
+.footer{
+	position: relative;
+}
+.footer h3 {
+	
+	font-family: 'Bangers' , 'Tahoma' , 'Arial' , sans-serif;
+	
+    color: #8AAAB5;
+	font-size: 2em;
+	margin-top: 100%;
+	text-align: center;
+	
+}
+
+.footer h2 {
+	
+	font-family: 'Bangers' , 'Tahoma' , 'Arial' , sans-serif;
+	font-size: 2em;
+	
+	
+    color: #8AAAB5;
+	text-align: center;	
+}
+.footer h2:hover{
+	
+color: #FFCA6C;	
+}
+.footer h2:active{
+	
+color: #FFCA6C;	
+}
+
+.footer2 h3 {
+	 color: #8AAAB5;
+	margin-top: 25%;
+text-align: center;
+		font-family: 'Bangers' , 'Tahoma' , 'Arial' , sans-serif;
+	font-size: 1.5em;
+}
+.footer2 h2{
+		font-family: 'Bangers' , 'Helvetica' , sa-serif;
+	font-style: italic;
+	letter-spacing: 0.03em;
+	color: #8AAAB5;
+	text-align: center;
+	font-size: 1.5em;
+}
+.footer2 h2:hover{
+	
+color: #FFCA6C;	
+}
+
+.footer2 h2:active{
+	
+color: #FFCA6C;	
+}
+
+.footer3 h3 {
+	 color: #8AAAB5;
+	margin-top: 25%;
+	text-align: center;
+		font-family: 'Bangers' , 'Tahoma' , 'Arial' , sans-serif;
+	font-size: 2em;
+}
+.footer3 h2{
+		font-family: 'Bangers' , 'Helvetica' , sa-serif;
+	font-style: italic;
+	letter-spacing: 0.03em;
+	color: #8AAAB5;
+	text-align: center;
+	font-size: 2em;
+}
+.footer3 h2:hover{
+	
+color: #FFCA6C;	
+}
+
+.footer3 h2:active{
+	
+color: #FFCA6C;	
+}
+
+
+.giphy{
+	
+	width: 25%;
+	display: inline-block;
+	padding: 30px;
+
+}
+
+.giphy img{
+	
+	width: 100%;
+		
+}
+
+
+
+
+/*elements*/
+
+div{
+	
+	text-decoration:none;
+
+
+}
+
+ul{
+	
+	width: 60%;
+	display: block;
+	padding-left: 11%;
+	position: absolute;
+	z-index: 1;
+	margin-top: 24%;
+}
+
+
+li{
+	
+	display: inline;
+    padding: 1%;
+	vertical-align: bottom;	
+}
+
+nav {
+	display: block;
+	position: relative;
+	width: 100%;
+	
+}
+
+a{
+	
+text-decoration: none;
+}
+
+h2{
+	font-family: 'Bangers' , 'Helvetica' , sans-serif;
+	font-style: italic;
+	letter-spacing: 0.03em;
+	color: #8AAAB5;
+}
+
+h3{
+	font-family: 'Bangers' , 'Helvetica' , sans-serif;
+	font-style: italic;
+	font-size: 2em;
+	letter-spacing: 0.02em;
+	color: #8AAAB5;
+}
+footer{
+	
+	width: 100%;
+	position: relative;
+	margin-top: 25%; 
+    	
+
+	
+}
+
+
+
+
+html{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	
+}
+
+
+
